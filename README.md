@@ -71,18 +71,12 @@ I'm a passionate developer who loves building full-stack web applications that s
 
 ---
 
-## 📈 GitHub Stats
-
-![Saurabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaurabhSawade&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSawade&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: _your.email@example.com_
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📧 Email:saurabhsawade6@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saurabh-sawade6261/)
+- 🌐 [Portfolio](https://portfolio-saurabh-sawade.vercel.app)
 
 ---
 
